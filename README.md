@@ -24,7 +24,7 @@ El equipo de desarrollo de la ParchApp está compuesto por:
 - Santiago Guiral
 - Sebastián Fernández
 - Samuel Acevedo
-- 
+
 ## Contacto
 
 Si tienes alguna pregunta o sugerencia, puedes comunicarte con el equipo de desarrollo de la ParchApp a través de @parchapp449@gmail.com
