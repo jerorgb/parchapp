@@ -24,16 +24,8 @@ El equipo de desarrollo de la ParchApp está compuesto por:
 - Santiago Guiral
 - Sebastián Fernández
 - Samuel Acevedo
-
-## Cómo contribuir
-
-Si deseas contribuir al desarrollo de la Parche App, puedes seguir los siguientes pasos:
-
-1. Clona el repositorio de la aplicación desde [enlace al repositorio].
-2. Realiza los cambios o mejoras que desees.
-3. Envía un pull request para que podamos revisar tus cambios y considerar su incorporación al proyecto.
-
+- 
 ## Contacto
 
-Si tienes alguna pregunta o sugerencia, puedes comunicarte con el equipo de desarrollo de la Parche App a través de [correo electrónico
+Si tienes alguna pregunta o sugerencia, puedes comunicarte con el equipo de desarrollo de la ParchApp a través de @parchapp449@gmail.com
 
