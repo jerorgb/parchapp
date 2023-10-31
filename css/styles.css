@@ -1,0 +1,284 @@
+
+
+body{
+    margin: 0%;
+    background-color: #303030;
+    background-repeat: no-repeat;
+    background-size: 100%, 100%;
+    background-position-x: center;
+    background-position-y: -40%;
+    padding-top: 0px;
+    height: 100%;
+}
+
+.imgDiv1{
+    width: 100%;
+    height: 120px;
+    text-align: center;
+}
+
+.img1{
+    width: 100%;
+    object-position: 0px -180px;
+}
+
+.imgDiv2{
+    position: inherit;
+    width: 0%;
+    height: 0%;
+    z-index: 6;
+    margin-left: 55%;
+    margin-top: -12%;
+}
+
+.img2{
+    scale: 40%;
+}
+
+.imgDiv3{
+    position: absolute;
+    width: 25%;
+    height: 7%;
+    z-index: 6;
+    margin-left: 30%;
+}
+
+.star1{
+    z-index: 7;
+    position: absolute;
+    scale: 30%;
+    margin-left: 20%;
+    rotate: 330deg;
+}
+
+.star2{
+    z-index: 9;
+    position: absolute;
+    scale: 20%;
+    margin-left: 30%;
+    margin-top: 30%;
+    rotate: 25deg;
+}
+
+.star3{
+    position: absolute;
+    scale: 30%;
+    margin-left: 40%;
+    margin-top: 15%;
+    rotate: 10deg;
+}
+
+.imgDiv4{
+    position: inherit;
+    margin-left: 50%;
+    margin-top: -5%;
+}
+
+.img4{
+    scale: 50%;
+}
+
+.Box{
+    display: flex;
+    flex-direction: column;
+}
+
+.compass{
+    position: absolute;
+    background-color: white;
+    display: flex;
+    justify-content: flex-end;
+    z-index: 5;
+    width: 100%;
+    height: 10%;
+}
+
+.homeBtnImg:hover{
+    scale: 120%;
+}
+
+.LogInBtnImg:hover{
+    scale: 120%;
+}
+
+.registerBtnImg:hover{
+    scale: 120%;
+}
+
+.homeBtnImg{
+    position: inherit;
+    width: 80%;
+    height: 80%;
+}
+
+.LogInBtnImg{
+    position: inherit;
+    width: 80%;
+    height: 80%;
+    margin-top: 5%;
+}
+
+.registerBtnImg{
+    position: inherit;
+    width: 80%;
+    height: 80%;
+    margin-top: 5%;  
+}
+
+.opener{
+    rotate: 45deg;
+    scale: 60.2%;
+    margin-top: 200px;
+}
+
+.whiteBox{
+    background-color: white;
+    position: absolute;
+    z-index: 5;
+    margin-top: -675px;
+    margin-left: 7.5%;
+    width: 85%;
+    height: 1500px;
+}
+
+.titlesLeftOrange{
+    text-align: left;
+    margin-left: 5%;
+    z-index: 6;
+    width: 1000;
+    color: orangered;
+    font-size: 45px;
+    font-family:'Gill Sans MT';
+}
+
+.titlesLeftGreen{
+    text-align: left;
+    margin-left: 5%;
+    z-index: 6;
+    width: 1000;
+    color: rgb(11, 173, 11);
+    font-size: 45px;
+    font-family:'Gill Sans MT';
+}
+
+.titlesRightOrange{
+    text-align: right;
+    margin-right: 5%;
+    z-index: 6;
+    width: 1000;
+    color: orangered;
+    font-size: 45px;
+    font-family:'Gill Sans MT';
+}
+
+.txtLeft{
+    z-index: 6;
+    margin-left: 5%;
+    margin-right: 50%;
+    font-size: 25px;
+    font-family:'Gill Sans MT';
+}
+
+.txtRight{
+    text-align: right;
+    z-index: 6;
+    margin-left: 50%;
+    margin-right: 5%;
+    font-size: 25px;
+    font-family:'Gill Sans MT';
+}
+
+.QuestionBig{
+    position: inherit;
+    z-index: 5;
+    margin-left: 20%;
+    font-size: 100px;
+    margin-top: -23%;
+}
+
+
+
+.contactArea{
+    z-index: 10;
+    background-color: black;
+    width: 100%;
+    height: 500px;
+    margin-top: 825px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.whiteTitle{
+    color: white;
+    font-size: 25px;
+    font-family:'Gill Sans MT';
+}
+
+.linkTree{
+    display: flex;
+    flex-wrap: wrap;
+    grid-template-columns: repeat(1, fr);
+    justify-content: space-between;
+}
+
+.contactLinkDiv{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 200px;
+}
+
+.contactLink{
+    color: white;
+    font-size: 25px;
+    font-family:'Gill Sans MT';
+}
+
+.card{
+    display: inline;
+    padding-top: 10px;
+    width: 50%;
+    height: 60px;
+}
+
+.logo{
+    background-color: black;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 100px;
+    width: 50px;
+    height: 30px;
+}
+
+/* 300px x 300px */
+
+.instaLogo{
+    position: inherit;
+    scale: 11.5%;
+    margin-top: -115px;
+    margin-left: -93px;
+}
+
+.facebookLogo{
+    position: inherit;
+    scale: 10%;
+    margin-top: -135px;
+    margin-left: -120px;
+}
+
+.mailLogo{
+    position: inherit;
+    scale: 10%;
+    margin-top: -135px;
+    margin-left: -110px;
+}
+
+.whatsappLogo{
+    position: inherit;
+    scale: 10%;
+    margin-top: -138px;
+    margin-left: -120px;
+}
+
+
+
+
